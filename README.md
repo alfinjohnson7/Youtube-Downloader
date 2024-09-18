@@ -1,8 +1,8 @@
-YouTube Video and Audio Downloader
+#YouTube Video and Audio Downloader
 
 This Python project provides a user-friendly GUI for downloading YouTube videos and audio files. Built using tkinter and customtkinter for the interface and yt-dlp for the downloading process, this tool allows users to easily download content from YouTube.
 
-Features
+##Features
 
 1.Download Videos: Downloads videos in the best available quality.
 
@@ -14,7 +14,7 @@ Features
 
 5.Simple GUI: Easy-to-use interface to provide YouTube links and start downloads with a single click.
 
-How to Use
+##How to Use
 
 1.Enter a valid YouTube link into the input box.
 
